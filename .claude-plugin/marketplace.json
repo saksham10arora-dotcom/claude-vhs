@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-vhs",
+  "name": "nerfsaksham-vhs",
   "description": "A tape of every edit Claude makes: replay each change typing itself in, step through it, and rewind any file to any step.",
   "owner": {
     "name": "Saksham Arora",
