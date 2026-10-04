@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-vhs",
+  "description": "A tape of every edit Claude makes: replay each change typing itself in, step through it, and rewind any file to any step.",
+  "owner": {
+    "name": "Saksham Arora",
+    "url": "https://saksham.digital"
+  },
+  "plugins": [
+    {
+      "name": "vhs",
+      "source": "./",
+      "description": "A tape of every edit Claude makes: replay each change typing itself in, step through it, and rewind any file to any step.",
+      "category": "productivity",
+      "tags": [
+        "mods",
+        "replay",
+        "undo",
+        "history",
+        "diff"
+      ]
+    }
+  ]
+}
